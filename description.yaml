@@ -1,0 +1,7 @@
+product: Elite Smart Gateway
+version: v00.00.02
+requirements: No requirements for Elite terminal versions
+image: newFile_4mb.swu
+release_notes: |
+  This is a special version for showing the capability of ESG Dashboard to notify new software update to users and allow the users to update if they wish to do so
+  Note that, this version should not be installed for production
